@@ -18,9 +18,9 @@
   <em></em>
 </p>
 
-<p align="center">
+<h4 align="center">
   I am passionate about digital systems, from writing UVM testbenches to deploying RISC-V processors on FPGAs. When I'm not designing circuits, I'm participating in student activities or winning hackathons!
-</p>
+</h4>
 
 ---
 
@@ -38,10 +38,10 @@
   <img src="https://img.shields.io/badge/TCL_Script-4B5263?style=for-the-badge&logo=tcl&logoColor=white" alt="TCL Script" />
   <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/QuestaSim-005288?style=for-the-badge&logo=siemens&logoColor=white" alt="QuestaSim" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/QuestaSim-005288?style=for-the-badge&logo=siemens&logoColor=white" alt="QuestaSim" />
   <img src="https://img.shields.io/badge/ModelSim-005288?style=for-the-badge&logo=siemens&logoColor=white" alt="ModelSim" />
   <img src="https://img.shields.io/badge/Cadence_Virtuoso-E31837?style=for-the-badge&logo=cadence&logoColor=white" alt="Cadence Virtuoso" />
   <img src="https://img.shields.io/badge/Vivado-000000?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
