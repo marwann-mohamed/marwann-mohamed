@@ -3,6 +3,9 @@
 <h3 align="center">Hardware & Verification Engineer | Electronics & Communication Student at CUFE</h3>
 
 <p align="center">
+<img width="498" height="291" alt="dba556d26d6ac0d6e8c1350d3cd3b246" src="https://github.com/user-attachments/assets/0d085ed3-3656-42e7-9d22-524948b66d2e" />
+  
+<p align="center">
   <a href="mailto:marwanmohamedelsaid732@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -10,8 +13,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-<img width="498" height="291" alt="dba556d26d6ac0d6e8c1350d3cd3b246" src="https://github.com/user-attachments/assets/0d085ed3-3656-42e7-9d22-524948b66d2e" />
-<p align="center">
 
   <br>
   <em></em>
